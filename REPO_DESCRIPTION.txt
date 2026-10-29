@@ -1,0 +1,20 @@
+================================================================================
+GITHUB REPOSITORY DESCRIPTION (< 350 CHARACTERS)
+================================================================================
+
+[RECOMMENDED DESCRIPTION] (278 characters):
+NetGuard AI is an intelligent network intrusion detection & incident analysis console powered by Machine Learning (Random Forest) trained on the UNSW-NB15 dataset. Features real-time threat scoring, protocol profiling, XAI feature transparency, and automated incident reporting.
+
+--------------------------------------------------------------------------------
+CHARACTER COUNT: 278 chars (Limit: 350 chars)
+STATUS: QUALIFIED (< 350 characters)
+--------------------------------------------------------------------------------
+
+[SHORT 1-LINER ALTERNATIVE] (198 characters):
+AI-powered network intrusion detection & incident response console. Uses Random Forest trained on UNSW-NB15 for real-time traffic classification, threat scoring, protocol profiling, and reporting.
+
+================================================================================
+LIVE NETLIFY WEB DEMO:
+https://netguard-ai-console.netlify.app
+================================================================================
+
